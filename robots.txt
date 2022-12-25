@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://top-master-togel.github.io/sitemap.xml
